@@ -4,7 +4,7 @@
 
 
 #### Description 
-Current a very openended project with a goal of better understanding blockchain technolog 
+Current a very openended project with a goal of better understanding blockchain technology
 
 
 ###### Note 
